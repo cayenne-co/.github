@@ -1,25 +1,22 @@
-<!-- 
-Suggestions for your pull request description
-https://githubnext.com/projects/copilot-for-pull-requests
--->
+# Pull Request
 
-## Description
-copilot:summary
+### Description
+[Provide a brief description of the changes or features implemented in this pull request.]
 
-## Related issue
-<!-- 
-DOCS: https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue
+### Related Issue(s)
+[If applicable, mention any related issues or tasks that this pull request addresses.]
 
-[Single issue]: Keywords and Issue Number
-Fixes #1
+### Checklist
+Please make sure to review and check the following before submitting your pull request. Remove any items that are not applicable.
 
-[Multiple issues]: Separate with ",".
-Fixes #1, Fixes #2, Fixes #3
--->
-<!-- Please link to the issue here:  -->
+- [ ] The code follows the style guidelines of the project.
+- [ ] Unit tests have been added or updated to ensure proper functionality.
+- [ ] Documentation has been updated to reflect the changes (if applicable).
+- [ ] The code builds and passes all existing tests.
+- [ ] All commit messages are clear and descriptive.
 
+### Additional Notes
+[Include any additional information or notes that may be helpful for reviewers.]
 
-## Explanation of Changes
-copilot:walkthrough
-
-copilot:poem
+### Reviewer(s)
+[Tag any specific person or team responsible for reviewing this pull request, if applicable.]
